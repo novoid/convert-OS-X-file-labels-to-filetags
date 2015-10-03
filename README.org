@@ -1,8 +1,8 @@
-## Time-stamp: <2015-10-03 12:33:23 vk>
+## Time-stamp: <2015-10-03 12:35:35 vk>
 ## -*- coding: utf-8 -*-
 ## This file is best viewed with GNU Emacs Org-mode: http://orgmode.org/
 
-* filetags
+* Find and Convert OS X file labels to filetags
 
 This shell scripts (inefficiently) searches and converts [[https://en.wikipedia.org/wiki/Label_%2528Mac_OS%2529][OS X file
 labels]] (color tags) to [[https://github.com/novoid/filetags][filetags]].
