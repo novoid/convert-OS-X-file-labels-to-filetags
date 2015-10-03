@@ -1,0 +1,19 @@
+## Time-stamp: <2015-10-03 12:33:23 vk>
+## -*- coding: utf-8 -*-
+## This file is best viewed with GNU Emacs Org-mode: http://orgmode.org/
+
+* filetags
+
+This shell scripts (inefficiently) searches and converts [[https://en.wikipedia.org/wiki/Label_%2528Mac_OS%2529][OS X file
+labels]] (color tags) to [[https://github.com/novoid/filetags][filetags]].
+
+Please do read my blog post on
+http://Karl-Voit.at/2015/10/03/Copying-2.6-GB which describes the
+process and all implications.
+
+* Local Variables                                                  :noexport:
+# Local Variables:
+# mode: auto-fill
+# mode: flyspell
+# eval: (ispell-change-dictionary "en_US")
+# End:
